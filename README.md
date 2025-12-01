@@ -1,2 +1,2 @@
 # Blueprint
-Space Empire &amp; AstroCrown — Sub‑Page Structure Blueprint
+## content structure content structure mock‑up for the Space Empire + AstroCrown website.
