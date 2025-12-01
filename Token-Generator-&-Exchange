@@ -1,0 +1,10 @@
+# Token Generator & Exchange
+Overview: User‑friendly token creation and ranked marketplace.
+
+How It Works: Interactive template, live preview, embedded fee logic, free creation.
+
+Benefits: Easy adoption, contribution‑based ranking, liquidity growth.
+
+Revenue Model: Transaction fees routed to paymaster/treasury, exchange margins.
+
+Governance Hooks: HAAN monitors token activity, proposes ranking algorithm updates, integrates successful tokens into governance.
