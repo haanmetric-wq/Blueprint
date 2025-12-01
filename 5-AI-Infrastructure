@@ -1,0 +1,10 @@
+# AI Infrastructure
+Overview: Multi‑provider AI orchestration.
+
+How It Works: Routing tasks to best providers, failover redundancy, self‑audits.
+
+Benefits: Reliability, efficiency, adaptability.
+
+Revenue Model: External DAOs pay per analysis, surge pricing during load.
+
+Governance Hooks: HAAN proposes provider upgrades, code rewrites, migration paths.
